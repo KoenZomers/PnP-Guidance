@@ -233,7 +233,7 @@ A Content Delivery Network (CDN) is a geo-dispersed network that allows an end-u
 	- [Office 365 Public/Private CDN](https://dev.office.com/blogs/general-availability-of-office-365-cdn)
 	- SharePoint Portal Style Library - default option when a CDN is not used
 
->**Note**: The [Office 365 private CDN capability](https://dev.office.com/blogs/general-availability-of-office-365-cdn) has a publishing feature auto URL rewriting to CDN urls. So once private CDN is enabled SharePoint will return your publishing pages with links pointing to your private CDN location without you as a developer having to built this. This applies to publishing pages, but also to data returned by the content by search web part, the picture library slideshow, image fields in SPList REST queries and SharePoint Image renditions. Your publishing portal can also combine both private and public CDN in the same portal.
+>**Note**: The [Office 365 private CDN capability](https://dev.office.com/blogs/general-availability-of-office-365-cdn) has a publishing feature auto URL rewriting to CDN urls. So once private CDN is enabled SharePoint will return your publishing pages with links pointing to your private CDN location without you as a developer having to build this. This applies to publishing pages, but also to data returned by the content by search web part, the picture library slideshow, image fields in SPList REST queries and SharePoint Image renditions. Your publishing portal can also combine both private and public CDN in the same portal.
 
 ### AJAX
 <a name="bk_ajax"> </a>
